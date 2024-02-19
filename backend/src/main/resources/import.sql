@@ -1,3 +1,39 @@
-INSERT INTO TB_CATEGORY(name, created_At) VALUES ('Books', NOW());
-INSERT INTO TB_CATEGORY(name, created_At) VALUES ('Electronics', NOW());
-INSERT INTO TB_CATEGORY(NAME, created_At) VALUES ('Computers', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_category (name, created_At) VALUES ('Computadores', NOW());
+
+
+
+
