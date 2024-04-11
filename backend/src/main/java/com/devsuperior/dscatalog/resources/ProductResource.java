@@ -50,7 +50,7 @@ public class ProductResource {
 	}
 	
 	@PutMapping(value = "/{id}")
-	public ResponseEntity<ProductDTO> insert(@RequestBody ProductDTO dto, @PathVariable Long id){
+	public ResponseEntity<ProductDTO> update(@RequestBody ProductDTO dto, @PathVariable Long id){
 		dto = service.update(id, dto);
 		
 		return ResponseEntity.ok().body(dto);
