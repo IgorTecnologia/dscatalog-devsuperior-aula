@@ -1,6 +1,6 @@
 # dscatalog
 Uma API para gerenciar um catalogo de produtos, incluindo seus usuários e papéis.
-
+ 
 ## Como instalar a aplicação
 Através do comando git clone <url deste repositório> você pode armazena-lá no seu repositório local.
 
