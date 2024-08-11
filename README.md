@@ -61,7 +61,7 @@ This way you will have access to all the application's resources, because Maria 
 ## API Endpoints
 The API provides the following endpoints:
 
-**POST AUTH/TOKEN**
+**POST OAUTH/TOKEN**
 ```markdown
 POST /oauth/token - Request login to the application
 
