@@ -169,10 +169,6 @@ return HTTP status: 204 NO CONTENT
 ## Database
 The project utilizes [H2 Database](https://www.h2database.com/html/tutorial.html) as the database.
 
-There are settings for PostgreSQL, MySQL databases, you can use them by changing the application.properties file.
-
-The application comes with the H2 database as standard.
-
 There are settings for PostgreSQL, you can use them by changing the application.properties file.
 
 The application comes with the H2 database as standard.
