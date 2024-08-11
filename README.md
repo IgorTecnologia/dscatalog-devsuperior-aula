@@ -34,29 +34,11 @@ git clone https://github.com/IgorTecnologia/dscatalog-devsuperior-aula.git
 
 ## Collection Postman
 
-Import this URL into your Postman to use the ready-made HTTP methods to make requests/responses:
-```
-https://api.postman.com/collections/30344579-59501f7a-d2c3-4c9a-8e42-0395485c7135?access_key=PMAT-01J50Z87Q6ZWM1HD2SAA7DJ6XZ
-```
+Download these files and import them into your Postman to use the ready-made HTTP methods along with the already configured environment variables, to perform the requests/responses
 
-# Important
-first and important step logging into the application on the route:
-POST /oauth/token
-Basic Auth type variable data:
+[Download Collections](https://github.com/IgorTecnologia/dscatalog-devsuperior-aula/blob/docs-postman/dscatalog-collections.json)
 
-{{client-id}} value: dscatalog
-
-{{client-secret}} value: dscatalog123
-
-and body:
-
-{{username}} value: maria@gmail.com
-
-{{password}} value: 123456
-
-{{grant_type}} value name: password
-
-This way you will have access to all the application's resources, because Maria has the role of admin.
+[Download Environment Variables](https://github.com/IgorTecnologia/dscatalog-devsuperior-aula/blob/docs-postman/dscatalog-local-environment.json)
 
 ## API Endpoints
 The API provides the following endpoints:
