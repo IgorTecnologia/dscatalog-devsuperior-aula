@@ -1,11 +1,28 @@
-# dscatalog
+# DSCatalog - Sistema de Catálogo de Produtos
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-Este projeto é uma APIRest monolítica, construída usando Java, Spring, H2 como banco de dados.
+DSCatalog é uma aplicação backend desenvolvida utilizando o modelo arquitetural monolítico, projetada para gerenciar catálogos de produtos de forma eficiente e segura.
 
-This project is a monolithic APIRest, built using Java, Spring, H2 as the database.
+- Segurança e Autenticação
+
+A aplicação implementa Security/OAuth para gerenciar o login dos usuários, garantindo que o acesso aos recursos do sistema seja seguro e restrito a usuários autenticados.
+
+- Funcionalidades Principais
+
+DSCatalog oferece três APIs REST que permitem a interação com os principais recursos da aplicação:
+
+Categorias de Produtos: API para gerenciar e consultar as categorias dos produtos disponíveis no catálogo.
+
+Produtos: API dedicada ao gerenciamento dos produtos, permitindo criar, atualizar, excluir e consultar informações detalhadas sobre cada item no catálogo.
+
+Usuários: API para gerenciar os usuários da plataforma, incluindo operações de criação, atualização, e consulta de perfis de usuário.
+
+- O que a aplicação proporciona?
+
+DSCatalog é projetada para oferecer uma solução completa para a gestão de catálogos de produtos. Com uma arquitetura monolítica, a aplicação integra de forma coesa todas as funcionalidades necessárias para o gerenciamento de categorias de produtos, produtos e usuários, garantindo uma experiência unificada e eficiente.
+
 
 ## Table of Contents
 
